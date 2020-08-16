@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797600525919",
+    "firebase_url": "https://flutterstarternotification.firebaseio.com",
+    "project_id": "flutterstarternotification",
+    "storage_bucket": "flutterstarternotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797600525919:android:bf3392ab1d0383bb5235ea",
+        "android_client_info": {
+          "package_name": "com.ecuriosity.flutternotificationstarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797600525919-29nfjugag6m0lgtcfs6np2bgqg7pirra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1WIV0j0Tn5B5O6cetNZ9Qbkcoiu9jLPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797600525919-29nfjugag6m0lgtcfs6np2bgqg7pirra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
